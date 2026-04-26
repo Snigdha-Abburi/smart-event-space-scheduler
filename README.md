@@ -1,6 +1,9 @@
 SECTION - 27 -> BATCH 6
+
 SESS — Smart Event & Space Scheduler
+
 Team Details
+
 
 2500032386 → N. RAMAKRISHNA
 
